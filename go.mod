@@ -1,3 +1,3 @@
-module github.com/chyroc/baiduyun-go
+module github.com/chensylz/baiduyunsdk
 
 go 1.19
